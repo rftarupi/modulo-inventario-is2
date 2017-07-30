@@ -8,11 +8,11 @@
 class DataBase {
 
     //Propiedades estaticas con la informacion de la conexion (DSN):
-    private static $dbName = 'dfr7i9r7ebdtpm';
-    private static $dbHost = 'ec2-107-21-109-15.compute-1.amazonaws.com';
+    private static $dbName = 'dd2lfq87un5o7h';
+    private static $dbHost = 'ec2-54-163-254-76.compute-1.amazonaws.com';
     private static $port = '5432';
-    private static $dbUsername = 'acecaaiahgfvol';
-    private static $dbUserPassword = 'f45deba1fa58e5bee297ba25915c38589eea1bade5653b8c0701c3f632d0eba6';
+    private static $dbUsername = 'fgiceozsnpejaz';
+    private static $dbUserPassword = '7177c494b626df6fcc521e7515df89b511e8de0857df1aa7dc6b49aa3bb035f0';
     //Propiedad para control de la conexion:
     private static $conexion = null;
 
